@@ -15,4 +15,3 @@
 [submodule "anki/victor"]
 	path = anki/victor
 	url = https://github.com/InfiniteOracles/VixOS-Victor
-    branch = main
